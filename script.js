@@ -1,4 +1,7 @@
-const message = `I don’t even know if you’ll ever read this.\nBut if you do… I just want you to know, I still think about you sometimes.\n\nWe both tried. We both cared. But the universe just never gave us enough space to become “us.”\n\nI just wonder… if we had met at a different point in life, would the ending have been different?\n\nAnyway, I hope you're doing okay, even though we’re not in each other’s lives anymore.`;
+const message = `I don’t know if you’ll ever read this or not.\nBut if you do… I just want to say, I still miss you often.
+\n\nSometimes, for no clear reason, memories of you just appear out of nowhere. I miss the way we used to share stories, laugh together, and play games together.
+\n\nI know that maybe now we’re walking our own separate paths. But this feeling of longing still lingers, quietly waiting for a time when it might finally fade.
+\n\nI hope you’re doing well over there. If someday you find yourself missing me too, just know that I feel the same way here.`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
